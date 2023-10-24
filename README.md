@@ -4,10 +4,11 @@ DB：postgreSQL
 
 Tool：Postman
 
-Backend：django rest framework
+Backend：django rest framework (後端用到的package放在requirements.txt，pip install -r requirements.txt)
 
 Frontend：vue3 + bootstarp 5 (前端放在frontend資料夾)
 
+使用djangoRestFramework +  vue3 建立一個簡易電商，可以註冊登入，加入購物車並計算金額。
 reference(https://www.youtube.com/watch?v=Yg5zkd9nm6w&t=3608s)
 
 Demo
